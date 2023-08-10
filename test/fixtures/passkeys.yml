@@ -1,0 +1,26 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+user_1_key_1:
+  user: user_1
+  label: "Phone"
+  external_id: "id_1"
+  public_key: "public_1"
+  sign_count: 0
+  last_used_at: 2023-07-07 0:00:00
+
+user_1_key_2:
+  user: user_1
+  label: "Security Key"
+  external_id: "id_2"
+  public_key: "public_2"
+  sign_count: 0
+  last_used_at: 2023-07-07 0:00:00
+
+
+user_2_key_1:
+  user: user_2
+  label: "Phone"
+  external_id: "id_3"
+  public_key: "public_3"
+  sign_count: 0
+  last_used_at: 2023-07-07 0:00:00
